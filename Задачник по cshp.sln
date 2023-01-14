@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задачник по cshp", "Задачник по cshp\Задачник по cshp.csproj", "{A567F435-9951-4CFB-9230-37D3748D3E8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math.E", "Math.E\Math.E.csproj", "{E46D4974-BF74-4CAA-9B4A-1D9E607EA0B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wrote", "Wrote\Wrote.csproj", "{21BAC06A-4BDB-46EC-9B70-82103111BF9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Наследование", "Наследование\Наследование.csproj", "{11BD6B9F-2ED4-4E91-8749-8A01FEE422DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Арифметика", "Арифметика\Арифметика.csproj", "{1178465B-55D0-4976-8608-9A52061FE82D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "массивы", "массивы\массивы.csproj", "{B8D207E0-58C9-4B2B-AFE6-B1D4A55232D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A567F435-9951-4CFB-9230-37D3748D3E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A567F435-9951-4CFB-9230-37D3748D3E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A567F435-9951-4CFB-9230-37D3748D3E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A567F435-9951-4CFB-9230-37D3748D3E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E46D4974-BF74-4CAA-9B4A-1D9E607EA0B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E46D4974-BF74-4CAA-9B4A-1D9E607EA0B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E46D4974-BF74-4CAA-9B4A-1D9E607EA0B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E46D4974-BF74-4CAA-9B4A-1D9E607EA0B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21BAC06A-4BDB-46EC-9B70-82103111BF9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21BAC06A-4BDB-46EC-9B70-82103111BF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21BAC06A-4BDB-46EC-9B70-82103111BF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21BAC06A-4BDB-46EC-9B70-82103111BF9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11BD6B9F-2ED4-4E91-8749-8A01FEE422DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11BD6B9F-2ED4-4E91-8749-8A01FEE422DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11BD6B9F-2ED4-4E91-8749-8A01FEE422DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11BD6B9F-2ED4-4E91-8749-8A01FEE422DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1178465B-55D0-4976-8608-9A52061FE82D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1178465B-55D0-4976-8608-9A52061FE82D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1178465B-55D0-4976-8608-9A52061FE82D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1178465B-55D0-4976-8608-9A52061FE82D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8D207E0-58C9-4B2B-AFE6-B1D4A55232D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D207E0-58C9-4B2B-AFE6-B1D4A55232D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D207E0-58C9-4B2B-AFE6-B1D4A55232D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D207E0-58C9-4B2B-AFE6-B1D4A55232D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AB8826D-7452-47A6-8D44-267F8D1052E7}
+	EndGlobalSection
+EndGlobal
